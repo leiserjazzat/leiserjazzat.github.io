@@ -4,7 +4,7 @@ layout: default
 
 
 
-#### **Musik ist oft zu laut.**
+### Musik ist oft zu laut.
 
 Gäste können nicht miteinander sprechen, Kellner verstehen die Bestellung nicht mehr, man beginnt, einander ins Ohr zu schreien, was den Lärmpegel nur noch erhöht.
 
@@ -28,4 +28,6 @@ Auf Wunsch erweitern wir die Besetzung um:
 
 <br />
 
-Im Herzen sind wir Jazzmusiker. Unser Repertoire erstreckt sich aber weit darüber hinaus auf Filmmusik, ausgewählte Pop-Songs und vieles andere, zu dem Sie auch tanzen können. Wir leben und arbeiten in Wien, fahren aber auch gerne zu Ihrem Event.
+Im Herzen sind wir Jazzmusiker. Unser Repertoire erstreckt sich aber weit darüber hinaus auf Filmmusik, ausgewählte Pop-Songs und vieles andere, zu dem Sie auch tanzen können.
+
+Wir leben und arbeiten in Wien, fahren aber auch gerne zu Ihrem Event.
