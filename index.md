@@ -1,5 +1,6 @@
 ---
 layout: default
+support: [jquery, gallery]
 ---
 
 

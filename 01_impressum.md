@@ -4,7 +4,7 @@ title: Impressum
 permalink: /impressum/
 ---
 
-Eigentümer,  Medieninhaber & für den Inhalt verantwortlich:
+### Eigentümer,  Medieninhaber & für den Inhalt verantwortlich:
 
 Mag. Hannes Laszakovits   
 Franz Liszt Gasse 21  

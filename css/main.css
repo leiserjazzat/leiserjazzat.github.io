@@ -99,6 +99,7 @@ footer {
 
 	clear:both;
 	margin-top: 2em;
+	padding-top: 2em;
 	padding-bottom: 3em;
 	text-align: center;
 }
@@ -126,13 +127,21 @@ footer {
 	color:#343434;
 }
 #contact i {
-	margin: 4px;
+	margin: 8px;
+	width:25px;
+}
+#contact a, #contact a:hover {
+	color:#343434;
+	text-decoration: none;
 }
 
 @media all and (max-width: 760px) {
 	.wrapper { flex-flow: column; }
 	#article, #sidebar {
 		order: 0; width: auto;
+	}
+	#innerhead {
+	min-height: 200px;
 	}
 }
 
