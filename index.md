@@ -23,6 +23,7 @@ Michael Kneihs oder Heribert Kohlich, Klavier
 
 Hannes Laszakovits, Kontrabass
 
+
 Wir spielen swingende, groovende, melodiös-rhythmische Musik zum Zuhören, auf Ihren Wunsch auch zum Tanz.
 
 Unser großes Programm besteht aus den wunderbaren Melodien des Great American Songbook der 30er und 40er Jahre, aber auch aus bekannten Musikstücken aus Film und Fernsehen, immer in unserem eigenen originalen Arrangement.
