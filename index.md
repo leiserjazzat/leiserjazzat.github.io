@@ -13,15 +13,15 @@ Doch jetzt naht Abhilfe:
 **_Die leiseste Jazzband Europas_ spielt so leise, wie Sie es wünschen!**
 
 
-Die leiseste Jazzband Europas gibt es als Trio oder Quartett, in der Besetzung: 
+Die leiseste Jazzband Europas gibt es als Trio oder Quartett, in der Besetzung:
 
-Maria Salamon, Violine
+- Violine: Maria Salamon, und/oder
 
-und / oder Vlado Blum, Gitarre
+- Gitarre: Vlado Blum
 
-Michael Kneihs oder Heribert Kohlich, Klavier
+- Klavier: Michael Kneihs oder Heribert Kohlich
 
-Hannes Laszakovits, Kontrabass
+- Kontrabass: Hannes Laszakovits
 
 
 Wir spielen swingende, groovende, melodiös-rhythmische Musik zum Zuhören, auf Ihren Wunsch auch zum Tanz.
@@ -29,3 +29,6 @@ Wir spielen swingende, groovende, melodiös-rhythmische Musik zum Zuhören, auf 
 Unser großes Programm besteht aus den wunderbaren Melodien des Great American Songbook der 30er und 40er Jahre, aber auch aus bekannten Musikstücken aus Film und Fernsehen, immer in unserem eigenen originalen Arrangement.
 
 Wir leben und arbeiten in Wien, fahren aber auch gerne zu Ihrem Event.
+
+
+<img src="/img/jazz5.jpg" class="img-responsive"/>
