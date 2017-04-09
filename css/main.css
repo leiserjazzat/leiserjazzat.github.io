@@ -118,6 +118,11 @@ footer {
 	font-size: 18px;
 	text-decoration: none;
 }
+#impressum-side {
+	padding: 2em;
+	padding-right:0.5em;
+	max-width:350px;
+}
 
 #contact {
 	margin-top: 10px;

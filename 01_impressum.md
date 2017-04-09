@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: impressum
 title: Impressum
 permalink: /impressum/
 ---
