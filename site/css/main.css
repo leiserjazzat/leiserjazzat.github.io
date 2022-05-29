@@ -1,0 +1,161 @@
+html,
+body {
+  margin: 0;
+	height: 100%;
+	min-width: 320px;
+}
+
+body {
+	color: #212121;
+	font: 400 1em/1.4 'Open Sans',sans-serif;
+	font-size: 15px;
+  line-height: 18px;
+	background-image: url(/img/34441c67.png);
+	background-repeat: repeat;
+}
+
+#head {
+	background-color:#406099;
+	background-image: url(/img/2956eadc.png);
+	background-repeat: repeat;
+
+}
+#innerhead {
+	display: flex;
+	justify-content: center; /* align horizontal */
+  align-items: center;
+	min-height: 300px;
+	background-image: url(/img/img.png);
+	background-repeat: no-repeat;
+  background-position: center center;
+}
+#innerhead img {
+	max-width:80vw;
+}
+.bg {
+	/*background-color: rgba(23, 32, 48, 0.6);*/
+
+	padding: 10px;
+}
+
+#site-title {
+	font-size: 30px;
+  line-height: 36px;
+	float: left;
+	margin: 0 0 18px 0;
+  width: 700px;
+}
+#site-title a {
+	font-weight: bold;
+  text-decoration: none;
+	color: #fff;
+}
+#site-description {
+	clear: right;
+  float: right;
+  font-style: italic;
+  margin: 14px 0 18px 0;
+  width: 220px;
+	color: #cfd8dc;
+}
+.clear {
+	clear:both;
+}
+
+h1 {
+	clear: both;
+  font-weight: normal;
+	line-height: 1.5em;
+	margin: 0 0 20px 0;
+	display: block;
+  font-size: 2em;
+}
+
+#article {
+	flex: 1;
+	order: 1;
+
+	margin-top:20px;
+	font-size: 16px;
+  line-height: 24px;
+
+}
+.footerwrapper{
+	background-color: #fff;
+}
+.wrapper {
+	display: flex;
+}
+#sidebar {
+	min-width: 230px;
+	order: 2;
+
+}
+
+#article, #sidebar {
+	margin-left:2em;
+	margin-right:1em;
+}
+
+footer {
+
+	clear:both;
+	margin-top: 2em;
+	padding-top: 2em;
+	padding-bottom: 3em;
+	text-align: center;
+}
+.widget-title {
+	font-size:1.4em;
+}
+.footerfont {
+	display: inline-block;
+  margin: 0 .25em;
+	margin-bottom:0.5em;
+}
+.footerfont, .footerfont a, .footerfont a:hover {
+	color:#212121;
+	font-size: 18px;
+	text-decoration: none;
+}
+#impressum-side {
+	padding: 2em;
+	padding-right:0.5em;
+	max-width:350px;
+}
+
+#contact {
+	margin-top: 10px;
+	padding:5px;
+	border: 1px solid #e5e5e5;
+	font-size: 18px;
+	border-radius: 5px;
+	background-color: #f5f5f5;
+	color:#343434;
+}
+#contact i {
+	margin: 8px;
+	width:25px;
+}
+#contact a, #contact a:hover {
+	color:#343434;
+	text-decoration: none;
+}
+
+@media all and (max-width: 760px) {
+	.wrapper { flex-flow: column; }
+	#article, #sidebar {
+		order: 0; width: auto;
+		margin-left:1em;
+	}
+	#innerhead {
+		min-height: 200px;
+	}
+}
+
+@media all and (min-width: 1025px) {
+	.footerwrapper{
+		width: 1000px;
+		margin: auto;
+	}
+}
