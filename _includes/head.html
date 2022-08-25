@@ -15,8 +15,9 @@
 	<link rel="stylesheet" href="{{ "/css/fonts.css" | prepend: site.baseurl }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-	{% if page.support contains 'jquery' %}
-  <script src="{{ "/js/jquery.min.js" | prepend: site.baseurl }}"></script>
-  {% endif %}
-
 </head>
+
+{% if page.support contains 'jquery' %}
+<script src="{{ "/js/jquery.min.js" | prepend: site.baseurl }}"></script>
+{% endif %}
+<script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
