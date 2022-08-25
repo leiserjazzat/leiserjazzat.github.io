@@ -9,6 +9,12 @@ function loadiframe() {
 	soundcloud.scrolling = "no";
 
 	var loadbtn = document.getElementById("loadbtn");
-	loadbtn.appendChild(soundcloud);
-	loadbtn.style.display = none;
+	insertAfter(soundcloud,loadbtn);
+	// loadbtn.appendChild(soundcloud);
+	// loadbtn.style.display = none;
+	loadbtn.remove();
+}
+
+function insertAfter(newNode, referenceNode) {
+	referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
 }
